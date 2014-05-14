@@ -1,3 +1,10 @@
+"""
+This package contains functions that helps in extracting columns from a tab-delimited file or a gff file based on the 
+column name
+"""
+
+
+
 import csv
 
 def valid(row):
